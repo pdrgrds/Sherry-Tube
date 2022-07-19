@@ -44,3 +44,11 @@ cd ./server
 npm install 
 npm start
 ```
+
+## Diseños
+#### Login de SherryTube
+![Login de SherryTube](https://github.com/pdrgrds/Sherry-Tube/blob/master/Design/Login%20-%20Register.png)
+#### Pantalla Principal de SherryTube
+![Pantalla Principal de SherryTube](https://github.com/pdrgrds/Sherry-Tube/blob/master/Design/Principal.png)
+#### Videos de SherryTube
+![Videos de SherryTube](https://github.com/pdrgrds/Sherry-Tube/blob/master/Design/Replay.png)
